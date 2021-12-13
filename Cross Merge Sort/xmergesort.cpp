@@ -1,4 +1,4 @@
-#include "xmergeSort.h"
+#include "xmergesort.h"
 
 void merged(int* firstArr, int* secondArr,int* destination ,int firstSize,int secondSize, long & comparison){
     
