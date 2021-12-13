@@ -82,7 +82,7 @@ int hoarePartition(unsigned short *arr,int size, long &swap,double &avg_dist, do
 
 void quickSort(unsigned short* arr, long &swap, double & avg_dist, double & max_dist, bool hoare, int size)
 {
-    //Your code here
+   
     if(!hoare){
         
         if(size > 1){
